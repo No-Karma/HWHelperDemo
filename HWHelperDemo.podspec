@@ -1,4 +1,3 @@
-19 lines (15 sloc)  614 Bytes
 Pod::Spec.new do |s|
   s.name = 'HWHelperDemo'
   s.version = '1.0.1'
